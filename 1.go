@@ -13,3 +13,8 @@ func Hello()  {
 func V1()  {
 	fmt.Println("===========V1")
 }
+
+
+func V2()  {
+	fmt.Println("===========V2")
+}
