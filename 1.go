@@ -18,3 +18,7 @@ func V1()  {
 func V2()  {
 	fmt.Println("===========V2")
 }
+
+func V3()  {
+	fmt.Println("===========V3")
+}
