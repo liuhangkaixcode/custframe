@@ -14,3 +14,6 @@ func Hello() {
 func Master() {
 	fmt.Println("===========Master")
 }
+func V2()  {
+	
+}
